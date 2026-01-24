@@ -1,18 +1,52 @@
 # Hi, I'm Xin Jiang 👋
 
-🎓 Master of Computer Science @ University of California, Irvine
+<div style="display:flex; gap:10px; align-items:center;">
 
-🎓 Bachelor's degree in Information Systems @ South China Normal University  
+<img src="https://img.icons8.com/ios-filled/50/university.png" width="16" />
+<span><b>Master of Computer Science @ University of California, Irvine</b></span>
+<br><br>
+<img src="https://img.icons8.com/ios-filled/50/graduation-cap.png" width="16" />
+<span><b>Bachelor's degree in Information Systems @ South China Normal University</b></span> 
+<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" />
+<span>https://www.linkedin.com/in/xin-jiang12/</span>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16" />
+<a href="mailto:jiangx15@uci.edu">jiangx15@uci.edu</a>
 
-💻 Seeking: Backend / AI Engineer   
 
-📫 jiangx15@uci.edu | 🔗 LinkedIn: [xin-jiang12](https://www.linkedin.com/in/xin-jiang12/)
+
+</div>
+
 
 ---
 
 ## Skills
-Python, Java, JavaScript, C++, SQL  
-FastAPI, TensorFlow / PyTorch, Vue, Express.js, Docker, Linux, AWS
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+
+### Backend / AI
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
+### Frontend
+![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### DevOps / Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
@@ -26,7 +60,7 @@ FastAPI, TensorFlow / PyTorch, Vue, Express.js, Docker, Linux, AWS
 ## Projects
 - **Speech Emotion Recognition System** – LSTM + FastAPI + AWS (99.64% accuracy)  
 - **Chinese Figurative LLM Fine-tuning** – BART + HuggingFace  
-- **Real-time Chat Web App** – Node.js + Socket.IO
+- **Real-time Chat Web App** – Express.js + Socket.IO
 
 ---
 
