@@ -28,7 +28,7 @@ FastAPI, TensorFlow / PyTorch, Vue, Express.js, Docker, Linux, AWS
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=xJiang30&show_icons=true)
+
 
 
 <!--
