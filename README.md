@@ -2,15 +2,15 @@
 
 <div style="display:flex; gap:10px; align-items:center;">
 
-<img src="https://img.icons8.com/ios-filled/50/university.png" width="16" />
-<span><b>Master of Computer Science @ University of California, Irvine</b></span>
+<img src="https://img.icons8.com/ios-filled/50/1e40af/university.png" width="16" />
+<b>Master of Computer Science @ University of California, Irvine</b>
 <br><br>
-<img src="https://img.icons8.com/ios-filled/50/graduation-cap.png" width="16" />
-<span><b>Bachelor's degree in Information Systems @ South China Normal University</b></span> 
+<img src="https://img.icons8.com/ios-filled/50/38bdf8/graduation-cap.png" width="16" />
+<b>Bachelor's degree in Information Systems @ South China Normal University</b>
 <br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" />
 <span>https://www.linkedin.com/in/xin-jiang12/</span>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16" />
 <a href="mailto:jiangx15@uci.edu">jiangx15@uci.edu</a>
 
