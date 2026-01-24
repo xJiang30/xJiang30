@@ -1,7 +1,9 @@
 # Hi, I'm Xin Jiang 👋
 
-🎓 Master of Computer Science @ University of California, Irvine (current)
+🎓 Master of Computer Science @ University of California, Irvine
+
 🎓 Bachelor's degree in Information Systems @ South China Normal University  
+
 💻 Seeking: Backend / AI Engineer   
 
 📫 jiangx15@uci.edu | 🔗 LinkedIn: [xin-jiang12](https://www.linkedin.com/in/xin-jiang12/)
