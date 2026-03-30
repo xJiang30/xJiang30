@@ -55,8 +55,4 @@
 
 ---
 
-<div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=xJiang30&style=flat-square&color=blue)
-
-</div>
