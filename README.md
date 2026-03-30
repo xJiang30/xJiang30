@@ -5,9 +5,7 @@
 <img src="https://img.icons8.com/ios-filled/50/1e40af/university.png" width="16" />
 <b>Master of Computer Science @ University of California, Irvine</b>
 <br><br>
-<img src="https://img.icons8.com/ios-filled/50/38bdf8/graduation-cap.png" width="16" />
-<b>Bachelor's degree in Information Systems @ South China Normal University</b>
-<br><br>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" />
 <span>https://www.linkedin.com/in/xin-jiang12/</span>
 &nbsp;&nbsp;&nbsp;
