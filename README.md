@@ -18,9 +18,6 @@
   <a href="mailto:jiangx15@uci.edu">
     <img alt="Email" src="https://img.shields.io/badge/Email-jiangx15%40uci.edu-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/xJiang30">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-xJiang30-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 </div>
