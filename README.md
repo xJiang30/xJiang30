@@ -1,80 +1,62 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="xJiang30 Banner" width="800"/>
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hi, I'm Xin Jiang
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1F6FEB&center=true&vCenter=true&width=720&lines=AI+Full-Stack+Developer;Building+Multi-Agent+AI+Systems;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/xin-jiang12/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-xin--jiang12-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jiangx15@uci.edu"><img alt="Email" src="https://img.shields.io/badge/Email-jiangx15%40uci.edu-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-xjiang30-4285F4?style=flat-square"/></a>
+<p>
+  <b>🎓 Master of Computer Science @ UC Irvine</b><br/>
+  <b>🔥 Interested in AI Agents · Full-Stack · Applied ML</b>
 </p>
 
----
-
-## 🎓 About Me
-
-<div style="display:flex; gap:10px; align-items:center;">
-
-<img src="https://img.icons8.com/ios-filled/50/1e40af/university.png" width="16" />
-<b>Master of Computer Science @ University of California, Irvine</b>
+<p>
+  <a href="https://www.linkedin.com/in/xin-jiang12/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-xin--jiang12-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jiangx15@uci.edu">
+    <img alt="Email" src="https://img.shields.io/badge/Email-jiangx15%40uci.edu-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/xJiang30">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-xJiang30-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
----
-
-## 💻 Skills
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-
-**Machine Learning / AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-000000)
-![LangChain](https://img.shields.io/badge/LangChain-121212)
-![Gemini API](https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white)
-![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4)
-
-**Backend / System**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue)
-![gRPC](https://img.shields.io/badge/gRPC-0086C3?logo=grpc&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-**Frontend**
-
-![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-**Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
-## 💼 Experience
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- **AI Engineer Intern – PaZhou Lab** (Python, Pytorch, YOLO)  
-- **Full-stack Intern – Fuyuan IT** (Java, Vue, bridge monitoring system)  
-- **System Dev Intern – Anyka Microelectronics** (C++, Linux, ONVIF)
-- **Research Assistant – South China Normal University** (Single Mode Dynamic Hashing Method) 
+## Experience
+
+- **AI Engineer Intern** @ [Pazhou Lab](https://www.pazhoulab-huangpu.com/#/) — `Python` `PyTorch`
+- **Full-Stack Intern** @ Fuyuan Information Technology — `Vue.js` `JavaScript`
+- **Software Eng Intern** @ [Anyka](http://www.anyka.com/) — `Linux`
+- **Research Assistant** @ South China Normal University — `Single Mode Dynamic Hashing Method`
+
+</td>
+<td valign="top" width="50%">
+
+## Projects
+
+- **Multi-Agent AI Prototype Platform**  
+  *(Industry-sponsored by [Cotality](https://www.cotality.com/))* — `Google ADK` `Gemini` `Agent Orchestration`
+
+- **Speech Emotion Recognition System** — `LSTM` `Docker` `AWS`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projects
+<div align="center">
 
-- **ProtoPilot – AI-Driven Rapid Prototyping Platform** – Multi-Agent System + Gemini + Google ADK  
-- **Speech Emotion Recognition System** – LSTM + FastAPI + AWS (99.64% accuracy)  
-- **Chinese Figurative LLM Fine-tuning** – BART + HuggingFace  
+![Visitor Count](https://komarev.com/ghpvc/?username=xJiang30&style=flat-square&color=blue)
 
----
+</div>
