@@ -47,7 +47,8 @@
 - **Multi-Agent AI Prototype Platform**  
   *(Industry-sponsored by [Cotality](https://www.cotality.com/))* — `Google ADK` `Gemini` `Agent Orchestration`
 
-- **Speech Emotion Recognition System** — `LSTM` `Docker` `AWS`
+- **Speech Emotion Recognition System**
+  *([demo](https://ser-demo.duckdns.org/))*— `LSTM` `Docker` `AWS`
 
 </td>
 </tr>
