@@ -45,7 +45,7 @@
   *(Industry-sponsored by [Cotality](https://www.cotality.com/))* — `Google ADK` `Gemini` `Agent Orchestration`
 
 - **Speech Emotion Recognition System**
-  *([demo](https://ser-demo.duckdns.org/))*— `LSTM` `Docker` `AWS`
+  *([demo](https://speech-emotion-recognition-webapp.onrender.com))*— `LSTM` `Docker` `AWS`
 
 </td>
 </tr>
