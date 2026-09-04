@@ -137,9 +137,9 @@ Langfuse · DeepEval · OpenTelemetry
   
   ### ⚙️ Engineering
   
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=light"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=fastapi,mysql,react,vue&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=light"/>&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=fastapi,mysql,react,vue&theme=light"/>
   
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux&theme=light"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>&nbsp;&nbsp;<img src="https://skill-icons-v2.vercel.app/api/icons?i=huggingface&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux&theme=light"/>&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>&nbsp;&nbsp;<img src="https://skill-icons-v2.vercel.app/api/icons?i=huggingface&theme=light" />
 
 </div>
 
