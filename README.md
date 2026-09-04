@@ -28,32 +28,119 @@
 
 ---
 
-<table>
+<table align="center">
 <tr>
 <td valign="top" width="50%">
 
 ## Experience
 
-- **AI Agent & LLM Engineering Intern** @ [Ant Group](https://www.antgroup.com/) — `Agent Evaluation` `Tracing Observability` `Context Compression`
-- **AI Engineer Intern** @ [Pazhou Lab](https://www.pazhoulab-huangpu.com/#/) — `Computer Vision` `PyTorch`
-- **Full-Stack Intern** @ Fuyuan Information Technology — `Vue.js` `JavaScript`
-- **Research Assistant** @ South China Normal University — `Single Mode Dynamic Hashing Method`
+- **AI Agent & LLM Engineering Intern** @ <img src="./assets/antgroup-color.png" width="22" align="absmiddle" /> [Ant Group](https://www.antgroup.com/) <br> `Agent Evaluation` `Tracing` `Context Compression`
+- **AI Engineer Intern** @ [Pazhou Lab](https://www.pazhoulab-huangpu.com/#/) <br> `Computer Vision` `Object Detection`
+- **Research Assistant** @ [South China Normal University](https://www.scnu.edu.cn/) <br> `Single Mode Dynamic Hashing Method`
 
 </td>
 <td valign="top" width="50%">
 
 ## Projects
 
-- **Multi-Agent AI Prototype Platform**  
-  *(Industry-sponsored by [Cotality](https://www.cotality.com/))* — `Google ADK` `Litellm` `Agent Orchestration`
-  <a href="https://protopilot.onrender.com/welcome">↗ Try This</a><br/>
+- **Multi-Agent AI Prototype Platform** [↗Try This](https://protopilot.onrender.com/welcome) <br>
+  *(Industry-sponsored by [Cotality](https://www.cotality.com/))* <br> `Google ADK` `Litellm` `Multi-Agent Orchestration` `HITL`
+  
 
 - **Speech Emotion Recognition System**
-  *([demo](https://speech-emotion-recognition-webapp.onrender.com))*— `LSTM` `Docker` `AWS`
+  *([demo](https://speech-emotion-recognition-webapp.onrender.com))* <br> `LSTM` `Docker` `AWS`
 
 </td>
 </tr>
 </table>
+
+---
+
+
+## 🧩 Tech Stack
+
+<table width="100%" align="center" >
+<tr>
+
+
+<td align="center" valign="top">
+  
+<b>Agent Runtimes & Harnesses</b>
+
+<br/>
+
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" width="26" />
+&emsp;&emsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="26" />
+&emsp;&emsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg" width="26"/>
+
+<br/>
+
+<sub>
+Claude Code · Codex · DeepSeek Harness
+</sub>
+
+</td>
+
+<td align="center" valign="top">
+
+<b>Agent Frameworks & Protocols</b>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png" width="25" />
+&emsp;&emsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="25"/>
+&emsp;&emsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="25"/>
+&emsp;&emsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" width="25" />
+
+
+<br/>
+
+<sub>
+Google ADK · OpenAI Agents SDK · LangGraph · MCP
+</sub>
+
+</td>
+
+<td align="center" valign="top" >
+
+<b>Evaluation & Observability</b>
+
+<br/>
+
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langfuse-color.svg" width="25" />
+&emsp;&emsp;
+<img src="https://raw.githubusercontent.com/confident-ai/deepeval/main/docs/public/icons/deepeval-icon.svg" width="25" />
+&emsp;&emsp;
+<img src="https://cdn.simpleicons.org/opentelemetry" width="25" />
+
+<br/>
+
+<sub>
+Langfuse · DeepEval · OpenTelemetry
+</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <b>⚙️ Engineering</b>
+  
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=light"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=fastapi,mysql,react,vue&theme=light"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux&theme=light"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>&nbsp;&nbsp;<img src="https://skill-icons-v2.vercel.app/api/icons?i=huggingface&theme=light" />
+
+</p>
+
+
+
+---
 
 
 
