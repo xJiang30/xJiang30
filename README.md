@@ -43,12 +43,14 @@
 
 ## Projects
 
-- **Multi-Agent AI Prototype Platform** [↗Try This](https://protopilot.onrender.com/welcome) <br>
-  *(Industry-sponsored by [Cotality](https://www.cotality.com/))* <br> `Google ADK` `Litellm` `Multi-Agent Orchestration` `HITL`
+- **Multi-Agent AI Prototype Platform**<br>
+  *(Industry-sponsored by [Cotality](https://www.cotality.com/))* 
+[Try it ↗](https://protopilot.onrender.com/welcome) | [Demo video](https://drive.google.com/file/d/1YBcEzvtccvi5uLdjAVtt_jqFzcrAHjjQ/view?usp=sharing)  <br>
+  `Google ADK` `Litellm` `Multi-Agent Orchestration` `HITL`
   
 
 - **Speech Emotion Recognition System**
-  *([demo](https://speech-emotion-recognition-webapp.onrender.com))* <br> `LSTM` `Docker` `AWS`
+  *([Live demo](https://speech-emotion-recognition-webapp.onrender.com))* <br> `LSTM` `Docker` `AWS`
 
 </td>
 </tr>
