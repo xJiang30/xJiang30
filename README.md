@@ -65,15 +65,15 @@
 
 <td align="center" valign="top">
   
-<b>Agent Runtimes & Harnesses</b>
+### Agent Runtimes & Harnesses
 
 <br/>
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" width="26" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" width="29" />
 &emsp;&emsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="26" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="29" />
 &emsp;&emsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg" width="26"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/deepseek-color.svg" width="29"/>
 
 <br/>
 
@@ -85,17 +85,17 @@ Claude Code · Codex · DeepSeek Harness
 
 <td align="center" valign="top">
 
-<b>Agent Frameworks & Protocols</b>
+### Agent Frameworks & Protocols
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png" width="25" />
+<img src="https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png" width="28" />
 &emsp;&emsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="25"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="28"/>
 &emsp;&emsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="25"/>
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" width="28"/>
 &emsp;&emsp;
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" width="25" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/mcp.svg" width="28" />
 
 
 <br/>
@@ -108,15 +108,15 @@ Google ADK · OpenAI Agents SDK · LangGraph · MCP
 
 <td align="center" valign="top" >
 
-<b>Evaluation & Observability</b>
+### Evaluation & Observability
 
 <br/>
 
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langfuse-color.svg" width="25" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/langfuse-color.svg" width="29" />
 &emsp;&emsp;
-<img src="https://raw.githubusercontent.com/confident-ai/deepeval/main/docs/public/icons/deepeval-icon.svg" width="25" />
+<img src="https://raw.githubusercontent.com/confident-ai/deepeval/main/docs/public/icons/deepeval-icon.svg" width="29" />
 &emsp;&emsp;
-<img src="https://cdn.simpleicons.org/opentelemetry" width="25" />
+<img src="https://cdn.simpleicons.org/opentelemetry" width="29" />
 
 <br/>
 
@@ -131,12 +131,15 @@ Langfuse · DeepEval · OpenTelemetry
 
 <br>
 
-<p align="center">
-  <b>⚙️ Engineering</b>
+<div align="center">
   
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=light"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=fastapi,mysql,react,vue&theme=light"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux&theme=light"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>&nbsp;&nbsp;<img src="https://skill-icons-v2.vercel.app/api/icons?i=huggingface&theme=light" />
+  ### ⚙️ Engineering
+  
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=light"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=fastapi,mysql,react,vue&theme=light"/>
+  
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,linux&theme=light"/>&emsp;&emsp;<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light"/>&nbsp;&nbsp;<img src="https://skill-icons-v2.vercel.app/api/icons?i=huggingface&theme=light" />
 
-</p>
+</div>
 
 
 
